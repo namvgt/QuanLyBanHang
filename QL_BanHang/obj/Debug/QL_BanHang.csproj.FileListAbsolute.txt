@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.Admin.resources
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.LoginForm.resources
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\bin\Debug\QL_BanHang.exe
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\bin\Debug\QL_BanHang.pdb
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.exe
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.pdb
+C:\Users\ADMIN\Desktop\GitHub\QuanLyBanHang\QL_BanHang\obj\Debug\QL_BanHang.BanHangForm.resources
