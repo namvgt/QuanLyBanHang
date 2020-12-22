@@ -58,6 +58,15 @@
     <Compile Include="BanHangForm.Designer.cs">
       <DependentUpon>BanHangForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="DAO\BanHangDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\KhachHangDAO.cs" />
+    <Compile Include="DAO\NccDAO.cs" />
+    <Compile Include="DAO\NhanSuDAO.cs" />
+    <Compile Include="DAO\NhapHangDAO.cs" />
+    <Compile Include="DAO\SanPhamDAO.cs" />
+    <Compile Include="DAO\TaiKhoanDAO.cs" />
+    <Compile Include="DTO\KhachHang.cs" />
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
