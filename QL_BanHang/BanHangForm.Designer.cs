@@ -1,4 +1,4 @@
-﻿namespace QL_BanHang
+﻿namespace SuperMarket
 {
     partial class BanHangForm
     {
