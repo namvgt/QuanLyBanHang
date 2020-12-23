@@ -17,7 +17,7 @@ namespace QL_BanHang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BanHangForm());
+            Application.Run(new LoginForm());
         }
     }
 }
